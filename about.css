@@ -1,24 +1,22 @@
-﻿body
-{
-    background-color:dodgerblue;
-    padding:40px;
-    color:white;
-    font-size:40px;
+﻿body {
+    background-color: dodgerblue;
+    padding: 40px;
+    color: white;
+    font-size: 40px;
 }
 
-h1{
-    float:left;
-    background-color:lightblue;
+h1 {
+    float: left;
+    background-color: lightblue;
 }
-ul 
-{
+
+ul {
     list-style-type: none; /*Gets rid of bullet points*/
     padding: 2px;
     margin: 0;
 }
 
-li a
-{
+li a {
     /*targets the list items, li is for list item, a is for hyperlink*/
     background-color: white;
     color: black;
