@@ -3,6 +3,24 @@
 }
 
 h1{
- 
-    font-display:block;
+    float:left;
+}
+ul 
+{
+    list-style-type: none; /*Gets rid of bullet points*/
+    padding: 0;
+    margin: 0;
+}
+
+li a
+{
+    /*targets the list items, li is for list item, a is for hyperlink*/
+    background-color: white;
+    color: crimson;
+    padding: 1em 1.5em; /*keeps things in proportion to font being used*/
+    display: block; /*treats them as block elements not in line so they don't overlap*/
+    text-decoration: none; /*no underline*/
+    text-transform: uppercase;
+    margin: 5px;
+    border-radius: 20px; /*rounds corners*/
 }
