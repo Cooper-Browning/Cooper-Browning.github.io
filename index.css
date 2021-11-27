@@ -1,6 +1,9 @@
 ﻿body
 {
-    background-color:darkblue;
+    background-color:dodgerblue;
+    padding:40px;
+    color:white;
+    font-size:40px;
 }
 
 h1{
@@ -23,6 +26,6 @@ li a
     display: block; /*treats them as block elements not in line so they don't overlap*/
     text-decoration: none; /*no underline*/
     text-transform: uppercase;
-    margin: 2px;
+    margin: 5px;
     border-radius: 20px; /*rounds corners*/
 }
