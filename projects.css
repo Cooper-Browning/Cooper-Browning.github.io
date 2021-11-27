@@ -19,7 +19,7 @@ li a {
     /*targets the list items, li is for list item, a is for hyperlink*/
     background-color: white;
     color: black;
-    padding: 20px 20px; /*keeps things in proportion to font being used*/
+    padding: 5px 5px; /*keeps things in proportion to font being used*/
     display: block; /*treats them as block elements not in line so they don't overlap*/
     text-decoration: none; /*no underline*/
     text-transform: uppercase;
