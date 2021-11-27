@@ -11,6 +11,7 @@ h1 {
 }
 
 ul {
+    align-content:center
     list-style-type: none; /*Gets rid of bullet points*/
     padding: 2px;
     margin: 0;
