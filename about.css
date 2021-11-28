@@ -20,6 +20,7 @@ ul {
 li a {
     /*targets the list items, li is for list item, a is for hyperlink*/
     background-color: white;
+    text-align: center;
     color: black;
     padding: 5px 5px; /*keeps things in proportion to font being used*/
     display: block; /*treats them as block elements not in line so they don't overlap*/
@@ -33,11 +34,17 @@ li a {
 }
 #purp{
     text-align:center;
-    color:deepskyblue;
+    color:wheat;
     font-size:25px;
 }
 #info {
     text-align: center;
-    color: deepskyblue;
-    font-size: 25px;
+    color: wheat;
+    font-size: 40px;
+}
+#paragraph{
+    color: white;
+}
+li a :hover{
+    background-color:lightgray;
 }
