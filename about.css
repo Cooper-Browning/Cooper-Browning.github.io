@@ -43,8 +43,13 @@ li a {
     font-size: 40px;
 }
 #paragraph{
+    text-align:left;
     color: white;
 }
 li a :hover{
     background-color:lightgray;
+}
+#pc {
+    text-align: left;
+    color: white;
 }
