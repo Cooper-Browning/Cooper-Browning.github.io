@@ -30,7 +30,7 @@ li a {
     border-radius: 20px; /*rounds corners*/
 }
 #name{
-    color:orangered;
+    color:green;
 }
 #purp{
     text-align:left;
@@ -52,4 +52,10 @@ li a :hover{
 #pc {
     text-align: left;
     color: white;
+}
+img{
+    float:left;
+}
+li{
+    width:25%;
 }
