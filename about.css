@@ -31,15 +31,14 @@ li a {
 #name{
     color:deepskyblue;
 }
-#purp{
-    text-align:left;
-    color:wheat;
-    font-size:40px;
-}
+
 #info {
     text-align: left;
     color: wheat;
     font-size: 40px;
+    background-color: wheat;
+    border-color:darkblue;
+    border-radius:20px;
 }
 #paragraph{
     text-align:left;
@@ -49,10 +48,7 @@ li a:hover{
     background-color:skyblue;
     zoom: 110%;
 }
-#pc {
-    text-align: left;
-    color: white;
-}
+
 img{
     float: right;
     width: 25%;
