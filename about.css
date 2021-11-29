@@ -8,6 +8,7 @@
 h1 {
     
     background-color: gray;
+    float:left;
 }
 
 ul {
@@ -55,7 +56,5 @@ li a :hover{
 }
 img{
     float:left;
-}
-li{
     width:25%;
 }
