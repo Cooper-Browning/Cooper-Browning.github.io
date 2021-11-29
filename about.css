@@ -4,7 +4,9 @@
     color: white;
     font-size: 40px;
 }
-
+header{
+    background-color: steelblue;
+}
 
 
 ul {
@@ -14,6 +16,7 @@ ul {
     margin: 0;
     overflow:hidden;
     background-color:lightgrey;
+    align-content:center;
 }
 
 li a {
@@ -21,11 +24,11 @@ li a {
     background-color: wheat;
     text-align: center;
     color: black;
-
+    padding: 10px;
     display: block; /*treats them as block elements not in line so they don't overlap*/
     text-decoration: none; /*no underline*/
     text-transform: uppercase;
-
+    margin:4px;
     border-radius: 20px; /*rounds corners*/
 }
 #name{
@@ -34,7 +37,7 @@ li a {
 
 #info {
     text-align: left;
-    color: wheat;
+    color: cadetblue;
     font-size: 40px;
     background-color: wheat;
     border-color:darkblue;
