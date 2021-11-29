@@ -13,6 +13,7 @@ ul {
     padding: 2px;
     margin: 0;
     overflow:hidden;
+    color:lightgrey;
 }
 
 li a {
@@ -57,7 +58,7 @@ img{
     width: 25%;
 }
 .indexBody {
-    background-image: url("https://wallpaperaccess.com/full/2136753.jpg")
+    background-image: url("https://wallpaperaccess.com/full/2136753.jpg");
 }
 li{
     float: left;
