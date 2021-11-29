@@ -15,6 +15,7 @@ ul {
     list-style-type: none; /*Gets rid of bullet points*/
     padding: 2px;
     margin: 0;
+    overflow:hidden;
 }
 
 li a {
@@ -46,8 +47,9 @@ li a {
     text-align:left;
     color: white;
 }
-li a :hover{
+li a:hover{
     background-color:lightgray;
+    zoom: 110%;
 }
 #pc {
     text-align: left;
@@ -56,4 +58,10 @@ li a :hover{
 img{
     float: right;
     width: 25%;
+}
+.indexBody {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    height: 100vh;
 }
