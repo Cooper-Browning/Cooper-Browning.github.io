@@ -13,7 +13,7 @@ ul {
 
     list-style-type: none; /*Gets rid of bullet points*/
     padding: 0;
-    margin: 0;
+    margin: 5px;
     overflow:hidden;
     background-color:lightgrey;
     align-content:center;
@@ -40,7 +40,7 @@ li a {
     background-color: cadetblue;
     font-size: 40px;
     border-color:darkblue;
-    border-radius:20px;
+
     margin:5px;
     padding: 5px;
     color: wheat;
@@ -48,6 +48,8 @@ li a {
 #paragraph{
     text-align:left;
     color: white;
+    background-color: antiquewhite;
+    color: darkblue;
 }
 li a:hover{
     background-color:skyblue;
@@ -58,9 +60,7 @@ img{
     float: right;
     width: 25%;
 }
-.indexBody {
-    background-image: url("https://img.freepik.com/free-photo/grunge-black-concrete-textured-background_53876-124541.jpg?size=626&ext=jpg");
-}
+
 li{
     float: left;
 }
