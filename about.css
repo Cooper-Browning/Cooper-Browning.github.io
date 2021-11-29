@@ -1,5 +1,6 @@
 ﻿body {
     background-image: url("https://img.freepik.com/free-photo/grunge-black-concrete-textured-background_53876-124541.jpg?size=626&ext=jpg");
+    background-repeat:no-repeat;
     padding: 40px;
     color: white;
     font-size: 40px;
@@ -9,13 +10,12 @@ header{
 }
 
 
-ul {
+.navList {
 
     list-style-type: none; /*Gets rid of bullet points*/
     padding: 0;
     margin: 5px;
     overflow:hidden;
-    background-color:lightgrey;
     align-content:center;
 }
 
@@ -38,18 +38,21 @@ li a {
 #info {
     text-align: left;
     background-color: cadetblue;
-    font-size: 40px;
+    font-size:40px;
     border-color:darkblue;
-
     margin:5px;
     padding: 5px;
     color: wheat;
+    border-radius:5px;
+
 }
 #paragraph{
     text-align:left;
     color: white;
     background-color: antiquewhite;
     color: darkblue;
+    font-size:30px;
+    border-radius:5px;
 }
 li a:hover{
     background-color:skyblue;
