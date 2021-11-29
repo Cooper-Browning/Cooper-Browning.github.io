@@ -13,7 +13,7 @@ ul {
     padding: 2px;
     margin: 0;
     overflow:hidden;
-    color:lightgrey;
+    background-color:lightgrey;
 }
 
 li a {
@@ -46,7 +46,7 @@ li a {
     color: white;
 }
 li a:hover{
-    background-color:lightgray;
+    background-color:skyblue;
     zoom: 110%;
 }
 #pc {
@@ -58,7 +58,7 @@ img{
     width: 25%;
 }
 .indexBody {
-    background-image: url("https://wallpaperaccess.com/full/2136753.jpg");
+    background-image: url("https://img.freepik.com/free-photo/grunge-black-concrete-textured-background_53876-124541.jpg?size=626&ext=jpg");
 }
 li{
     float: left;
