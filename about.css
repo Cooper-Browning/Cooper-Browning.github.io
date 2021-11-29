@@ -10,7 +10,7 @@
 ul {
     align-content:center;
     list-style-type: none; /*Gets rid of bullet points*/
-    padding: 2px;
+    padding: 0;
     margin: 0;
     overflow:hidden;
     background-color:lightgrey;
@@ -18,7 +18,7 @@ ul {
 
 li a {
     /*targets the list items, li is for list item, a is for hyperlink*/
-    background-color: white;
+    background-color: wheat;
     text-align: center;
     color: black;
     padding: 5px 5px; /*keeps things in proportion to font being used*/
