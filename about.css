@@ -41,6 +41,9 @@ li a {
     font-size: 40px;
     border-color:darkblue;
     border-radius:20px;
+    margin:5px;
+    padding: 5px;
+    color: wheat;
 }
 #paragraph{
     text-align:left;
