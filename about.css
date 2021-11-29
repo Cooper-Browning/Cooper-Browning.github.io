@@ -8,7 +8,7 @@
 
 
 ul {
-    align-content:center;
+
     list-style-type: none; /*Gets rid of bullet points*/
     padding: 0;
     margin: 0;
@@ -21,11 +21,11 @@ li a {
     background-color: wheat;
     text-align: center;
     color: black;
-    padding: 5px 5px; /*keeps things in proportion to font being used*/
+
     display: block; /*treats them as block elements not in line so they don't overlap*/
     text-decoration: none; /*no underline*/
     text-transform: uppercase;
-    margin: 2px;
+
     border-radius: 20px; /*rounds corners*/
 }
 #name{
